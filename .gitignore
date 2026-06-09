@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+# PHP dependencies
+vendor/
+# Build output (Vite)
+dist/
+public/dist/
+# Environment variables (hemlig info)
+.env
+# Loggar
+*.log
+# OS filer
+.DS_Store
